@@ -26,3 +26,13 @@ For an "active" questionnaire, three pools will be maintained:
   "answer": null
 }
 ```
+
+## Subscore
+
+```json
+{
+  "title": "Sample Subscore",
+  "description": "This is the subscore for blah blah",
+  "questions": [1, 7, 24, 25, 32]
+}
+```
